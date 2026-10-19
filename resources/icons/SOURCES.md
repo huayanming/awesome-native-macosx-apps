@@ -98,6 +98,7 @@ Each icon was resized to 64x64px for display; no crops or edits beyond resizing/
 | MailMate | `resources/icons/mailmate.png` | https://freron.com/favicon.ico (official site) |
 | Marked 2 | `resources/icons/marked-2.png` | https://marked2app.com/apple-touch-icon-144x144.png (official site) |
 | Meeting Bar | `resources/icons/meeting-bar.png` | https://meetingbar.app/favicon.png (official site) |
+| LumePane | `resources/icons/lumepane.png` | https://lumepane.com/img/icon.png (official site) |
 | MenubarX | `resources/icons/menubarx.png` | https://menubarx-1251679148.file.myqcloud.com/favicon3.png (official site) |
 | Micro Snitch | `resources/icons/micro-snitch.png` | https://www.obdev.at/apple-touch-icon.png (official site) |
 | Mimestream | `resources/icons/mimestream.png` | https://mimestream.com/assets/icons/apple-touch-icon.png (official site) |
